@@ -1104,7 +1104,7 @@ def s39():
         return
     threechoices('''You've been noticing your teen casually
     discussing drugs and weapons in the days since they've
-    told you he's found a new group of friends.''',
+    told you about a new group of friends.''',
     '''You leave work early to check on your teen, who you observe
     being nudged into trying illicit drugs. The eventual arrest of
     these "friends", who are actually wanted suspects,

@@ -14,7 +14,7 @@ As such, all interested users are welcome to add new features, change the struct
   and provide constructive feedback to help me continue to progress in my learning of Python. 
 My inspiration for this project came from a browser game known as PlaySpent, and felt like it would
   be reasonably challenging to re-create it in Python using my knowledge of functions and Tkinter.
-I acquired much of my TKinter knowledge through the Codemy YouTube channel and encourage 
+I acquired much of my Tkinter knowledge through the Codemy YouTube channel and encourage 
   everyone interested in learning Python, especially Tkinter, to check out this channel.
 
 I am assigning a GPL license to this project to facilitate expansions and modifications.
